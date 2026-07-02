@@ -3,7 +3,7 @@
 Repositorio con una serie de ejercicios prácticos desarrollados con **HTML**, **CSS** y **JavaScript**, como parte del curso de Programación Web.
 
 ---
-
+ 
 ## 📋 Descripción de la actividad
 
 Este repositorio reúne 10 ejercicios progresivos que abarcan desde la estructura básica de HTML5 hasta la creación de una calculadora funcional con JavaScript, pasando por formato de texto, enlaces, imágenes, secciones semánticas, listas, tablas y formularios accesibles.
