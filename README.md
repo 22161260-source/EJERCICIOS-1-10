@@ -144,21 +144,6 @@ Este repositorio reúne 10 ejercicios progresivos que abarcan desde la estructur
 
 ---
 
-## 🗃️ Estructura del repositorio
-
-```
-├── index.html          → Menú principal con enlaces a todos los ejercicios
-├── ejercicio1.html
-├── ejercicio2.html
-├── ...
-├── ejercicio10.html
-├── css/
-│   └── ejercicio10.css
-└── js/
-    └── ejercicio10.js
-```
-
----
 
 ## 🔗 Cómo ver el proyecto
 
