@@ -1,18 +1,18 @@
-# 🌐 Ejercicios de Programación Web
+#  Ejercicios de Programación Web
 
 Repositorio con una serie de ejercicios prácticos desarrollados con **HTML**, **CSS** y **JavaScript**, como parte del curso de Programación Web.
 
 ---
  
-## 📋 Descripción de la actividad
+##  Descripción de la actividad
 
 Este repositorio reúne 10 ejercicios progresivos que abarcan desde la estructura básica de HTML5 hasta la creación de una calculadora funcional con JavaScript, pasando por formato de texto, enlaces, imágenes, secciones semánticas, listas, tablas y formularios accesibles.
 
 ---
 
-## 🗂️ Ejercicios
+## Ejercicios
 
-### 📝 Ejercicio 1 — Mi Primera Página HTML ("Hola Mundo")
+###  Ejercicio 1 — Mi Primera Página HTML ("Hola Mundo")
 **Objetivo:** Crear una página HTML básica con el mensaje "¡Hola Mundo!" y alojarla en el servidor local XAMPP, aplicando la estructura mínima de HTML5.
 
 **Conceptos clave:**
@@ -28,7 +28,7 @@ Este repositorio reúne 10 ejercicios progresivos que abarcan desde la estructur
 
 ---
 
-### 📝 Ejercicio 2 — Párrafos y Formato Básico
+###  Ejercicio 2 — Párrafos y Formato Básico
 **Objetivo:** Usar `<p>`, `<strong>`, `<em>` y saltos de línea.
 
 **Conceptos clave:**
@@ -39,7 +39,7 @@ Este repositorio reúne 10 ejercicios progresivos que abarcan desde la estructur
 
 ---
 
-### 📝 Ejercicio 3 — Enlaces Simples
+###  Ejercicio 3 — Enlaces Simples
 **Objetivo:** Crear enlaces externos y anclas.
 
 **Conceptos clave:**
@@ -49,7 +49,7 @@ Este repositorio reúne 10 ejercicios progresivos que abarcan desde la estructur
 
 ---
 
-### 📝 Ejercicio 4 — Imágenes Básicas
+###  Ejercicio 4 — Imágenes Básicas
 **Objetivo:** Insertar imágenes con atributos.
 
 **Conceptos clave:**
@@ -60,7 +60,7 @@ Este repositorio reúne 10 ejercicios progresivos que abarcan desde la estructur
 
 ---
 
-### 📝 Ejercicio 5 — Combinando Texto y Enlaces
+###  Ejercicio 5 — Combinando Texto y Enlaces
 **Objetivo:** Integrar lo aprendido en los ejercicios anteriores.
 
 **Conceptos clave:**
@@ -69,7 +69,7 @@ Este repositorio reúne 10 ejercicios progresivos que abarcan desde la estructur
 
 ---
 
-### 📝 Ejercicio 6 — Secciones Semánticas Básicas
+###  Ejercicio 6 — Secciones Semánticas Básicas
 **Objetivo:** Usar `<header>`, `<footer>` y `<section>`.
 
 **Conceptos clave:**
@@ -79,7 +79,7 @@ Este repositorio reúne 10 ejercicios progresivos que abarcan desde la estructur
 
 ---
 
-### 📝 Ejercicio 7 — Listas Anidadas + Enlaces
+###  Ejercicio 7 — Listas Anidadas + Enlaces
 **Objetivo:** Crear una página de receta usando listas anidadas.
 
 **Conceptos clave:**
@@ -88,7 +88,7 @@ Este repositorio reúne 10 ejercicios progresivos que abarcan desde la estructur
 
 ---
 
-### 📝 Ejercicio 8 — "Horario de Clases"
+###  Ejercicio 8 — "Horario de Clases"
 **Objetivo:** Diseñar un horario semanal con tablas, estructurando datos con `<thead>` y `<tbody>`.
 
 **Conceptos clave:**
@@ -97,7 +97,7 @@ Este repositorio reúne 10 ejercicios progresivos que abarcan desde la estructur
 
 ---
 
-### 📝 Ejercicio 9 — Formulario de Contacto
+###  Ejercicio 9 — Formulario de Contacto
 **Objetivo:** Crear un formulario funcional y accesible, aplicando elementos HTML5 avanzados, CSS externo y conceptos de usabilidad y validación.
 
 **Elementos HTML implementados:**
@@ -125,7 +125,7 @@ Este repositorio reúne 10 ejercicios progresivos que abarcan desde la estructur
 
 ---
 
-### 🌡️ Ejercicio 10 — Conversor de Celsius a Fahrenheit
+###  Ejercicio 10 — Conversor de Celsius a Fahrenheit
 **Objetivo:** Desarrollar una calculadora sencilla que convierta grados Celsius a Fahrenheit usando HTML y JavaScript, mostrando el resultado sin recargar la página.
 
 **Funcionamiento:**
