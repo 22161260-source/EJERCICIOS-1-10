@@ -1,0 +1,9 @@
+body{
+    background-color:#d8f0f2;
+}
+
+.elemento{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}

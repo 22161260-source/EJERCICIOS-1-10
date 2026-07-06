@@ -44,7 +44,6 @@ h1 {
     margin-bottom: 30px;
 }
 
-/* Estilos del formulario */
 .formulario {
     display: flex;
     flex-direction: column;
@@ -96,14 +95,12 @@ h1 {
     min-height: 120px;
 }
 
-/* Grupo doble (email + teléfono) */
 .grupo-doble {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 16px;
 }
 
-/* Botón de envío */
 .boton-enviar {
     background-color: #4361ee;
     color: white;
@@ -136,7 +133,6 @@ h1 {
     margin-left: 12px;
 }
 
-/* Responsive */
 @media (max-width: 500px) {
     .grupo-doble {
         grid-template-columns: 1fr;
