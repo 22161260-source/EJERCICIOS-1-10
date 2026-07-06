@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Calculadora</title>
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.26.25/dist/sweetalert2.all.min.js"></script>
+
+<link rel="stylesheet" href="css/ejercicio16.css">
+</head>
+<body>
+
+  <h1>Calculadora de Numeros</h1>
+
+  <label for="numero1">Numero 1:</label>
+  <input type="text" id="numero1">
+
+  <label for="numero2">Numero 2:</label>
+  <input type="text" id="numero2">
+
+  <br>
+
+  <button onclick="calcularOperacion('suma')">Sumar</button>
+  <button onclick="calcularOperacion('resta')">Restar</button>
+  <button onclick="calcularOperacion('multiplicacion')">Multiplicar</button>
+  <button onclick="calcularOperacion('division')">Dividir</button>
+
+  <label for="resultado">Resultado:</label>
+  <input type="text" id="resultado" readonly>
+
+  <script src="js/ejercicio16.js"></script>
+
+</body>
+</html>
